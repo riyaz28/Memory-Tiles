@@ -1,7 +1,5 @@
 # Memory-Tiles
 
-Memory Tiles is a challenging and fun game to play.  
-
 How to play this game:  
 
 1.You start from Level-1 where the webpage will tell you what tile to remember.  
