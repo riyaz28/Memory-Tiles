@@ -7,3 +7,5 @@ How to play this game:
 2.As,the level progresses it will introduce a new tile and as a player you have to click all the tiles which was shown from level-1 till the level you are playing right now.  
 
 3.When the game is over,You can click any button to reset the game.
+ 
+  https://riyaz28.github.io/Memory-Tiles/
